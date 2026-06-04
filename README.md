@@ -14,7 +14,7 @@
 
 ```yaml
 Name        : NagaPhanidra
-Degree      : B.Tech in Computer Science
+Degree      : B.Tech in Computer Science at Vignan University
 Batch       : 2026
 Status      : Actively seeking SDE / Software Engineer roles
 Location    : India
