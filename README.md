@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=phani9945%20&fontSize=60&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=NagaPhanindra%20&fontSize=60&fontColor=ffffff)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phani9945&theme=radical&show_icons=true)
 
